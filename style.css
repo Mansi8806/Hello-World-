@@ -1,0 +1,22 @@
+
+h2 {
+	color: gray;
+}
+
+.title {
+color: brown;
+text-align: center; 
+}
+.maps {
+	float: right;
+	width: 450px;
+	height: 550px;
+}
+a:link {
+	target: _blank; 
+	background-color: yellow;
+	color: grey;
+}
+a:hover {
+	color:red;
+}
